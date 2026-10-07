@@ -116,10 +116,27 @@ estimated standard error in all twelve focused comparisons.
 
 ## Origin
 
-The labyrinth idea and original WorldEdit prototype are the author's.
-ChatGPT assisted with exposition, code, computations, figures, and manuscript
-preparation. The data describe newly generated mathematical cubes, not a
-capture of the original Minecraft world.
+The 3D Labyrinth originated from a Minecraft experiment conceived by **Kaoru Aguilera Katayama** on October 6, 2026.
+
+The original WorldEdit command was:
+
+```
+//set air,air,bedrock
+```
+
+The idea was simple: generate a three-dimensional random labyrinth containing approximately two-thirds air and one-third bedrock.
+
+What began as a Minecraft experiment evolved into a mathematical investigation of random voxel structures, graph connectivity, percolation, and pathfinding.
+
+**AI Assistance and Acknowledgment**
+
+The original idea, conceptual design, and Minecraft prototype belong to Kaoru Aguilera Katayama.
+
+OpenAI's ChatGPT assisted with mathematical formalization, scientific writing, programming, computational experiments, visualization, and manuscript preparation.
+
+The author acknowledges the use of AI tools transparently. The computational results are intended to be reproducible through the publicly available source code and experimental data.
+
+The experiments use newly generated mathematical voxel cubes rather than direct captures of the original Minecraft world.
 
 ## License
 
