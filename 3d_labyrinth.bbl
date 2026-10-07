@@ -1,0 +1,54 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{EngineHub}(2026)]{worldedit}
+{EngineHub}.
+\newblock {WorldEdit} documentation: Patterns, random pattern.
+\newblock
+  \url{https://worldedit.enginehub.org/en/latest/usage/general/patterns/},
+  2026.
+\newblock Accessed October 6, 2026.
+
+\bibitem[LaValle(2006)]{lavalle2006}
+Steven~M. LaValle.
+\newblock \emph{Planning Algorithms}.
+\newblock Cambridge University Press, 2006.
+\newblock Section 4.3, configuration space obstacles.
+  \url{https://msl.cs.uiuc.edu/planning/node156.html}.
+
+\bibitem[Lee(1961)]{lee1961}
+C.~Y. Lee.
+\newblock An algorithm for path connections and its applications.
+\newblock \emph{IRE Transactions on Electronic Computers}, EC-10\penalty0
+  (3):\penalty0 346--365, 1961.
+\newblock \doi{10.1109/TEC.1961.5219222}.
+\newblock \url{https://doi.org/10.1109/TEC.1961.5219222}.
+
+\bibitem[{SciPy Developers}(2026)]{scipylabel}
+{SciPy Developers}.
+\newblock \texttt{scipy.ndimage.label}: connected-component labeling.
+\newblock
+  \url{https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.label.html},
+  2026.
+\newblock Documentation accessed October 6, 2026.
+
+\bibitem[Wang et~al.(2013)Wang, Zhou, Zhang, Garoni, and Deng]{wang2013}
+Junfeng Wang, Zongzheng Zhou, Wei Zhang, Timothy~M. Garoni, and Youjin Deng.
+\newblock Bond and site percolation in three dimensions.
+\newblock \emph{Physical Review E}, 87:\penalty0 052107, 2013.
+\newblock \doi{10.1103/PhysRevE.87.052107}.
+\newblock URL \url{https://arxiv.org/abs/1302.0421}.
+
+\bibitem[Wilson(1927)]{wilson1927}
+Edwin~B. Wilson.
+\newblock Probable inference, the law of succession, and statistical inference.
+\newblock \emph{Journal of the American Statistical Association}, 22\penalty0
+  (158):\penalty0 209--212, 1927.
+\newblock \doi{10.2307/2276774}.
+\newblock \url{https://doi.org/10.2307/2276774}.
+
+\end{thebibliography}

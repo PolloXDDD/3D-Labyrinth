@@ -1,0 +1,64 @@
+{
+  "master_seed": 20261006,
+  "bit_generator": "PCG64",
+  "seed_fields": [
+    "master_seed",
+    "experiment",
+    "L",
+    "p_index",
+    "trial",
+    "stream"
+  ],
+  "sweep": {
+    "sizes": [
+      16,
+      32,
+      48
+    ],
+    "probabilities": [
+      0.2,
+      0.25,
+      0.28,
+      0.3,
+      0.32,
+      0.34,
+      0.38,
+      0.42,
+      0.46,
+      0.5,
+      0.55,
+      0.6,
+      0.6666666666666666,
+      0.75
+    ],
+    "trials": 200
+  },
+  "focus": {
+    "sizes": [
+      16,
+      32,
+      64
+    ],
+    "probabilities": [
+      0.6666666666666666
+    ],
+    "trials": 300
+  },
+  "independent_cubes": 9300,
+  "graph_observations": 18600,
+  "illustration": {
+    "experiment": 3,
+    "L": 16,
+    "p": 0.6666666666666666,
+    "p_index": 0,
+    "trial": 0,
+    "point_length": 16,
+    "upright_length": 22
+  },
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "compiler": "g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0",
+  "elapsed_seconds": 49.36765483299996,
+  "verification": "96 BFS comparisons; 48 route/component checks; full-lattice checks: PASS"
+}

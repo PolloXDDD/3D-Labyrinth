@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using this code, data, or figures."
+title: "3D Labyrinth: A Two-Thirds-Air, One-Third-Bedrock Random Voxel Maze"
+authors:
+  - family-names: "Aguilera Katayama"
+    given-names: "Kaoru"
+date-released: 2026-10-07
+url: "https://github.com/PolloXDDD/3D-Labyrinth"
+repository-code: "https://github.com/PolloXDDD/3D-Labyrinth"
+license: MIT

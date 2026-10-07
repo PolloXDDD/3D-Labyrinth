@@ -1,0 +1,62 @@
+[
+  {
+    "L": 16,
+    "model": "point",
+    "vertices_expected": 2730.6666666666665,
+    "vertices_mean": 2731.8433333333332,
+    "vertices_z": 0.6500440077851933,
+    "edges_expected": 5120.0,
+    "edges_mean": 5125.333333333333,
+    "edges_z": 0.7541108274861
+  },
+  {
+    "L": 16,
+    "model": "upright",
+    "vertices_expected": 1706.6666666666665,
+    "vertices_mean": 1708.08,
+    "vertices_z": 0.5841682882469106,
+    "edges_expected": 2484.148148148148,
+    "edges_mean": 2487.8366666666666,
+    "edges_z": 0.550953588484235
+  },
+  {
+    "L": 32,
+    "model": "point",
+    "vertices_expected": 21845.333333333332,
+    "vertices_mean": 21842.053333333333,
+    "vertices_z": -0.6554762452657708,
+    "edges_expected": 42325.33333333333,
+    "edges_mean": 42316.67,
+    "edges_z": -0.4325904300204513
+  },
+  {
+    "L": 32,
+    "model": "upright",
+    "vertices_expected": 14108.444444444442,
+    "vertices_mean": 14103.333333333334,
+    "vertices_z": -0.7333633897417807,
+    "edges_expected": 21251.160493827156,
+    "edges_mean": 21233.916666666668,
+    "edges_z": -0.8719994113977185
+  },
+  {
+    "L": 64,
+    "model": "point",
+    "vertices_expected": 174762.66666666666,
+    "vertices_mean": 174755.11333333334,
+    "vertices_z": -0.5307172930286463,
+    "edges_expected": 344064.0,
+    "edges_mean": 344030.0266666667,
+    "edges_z": -0.5860261368805251
+  },
+  {
+    "L": 64,
+    "model": "upright",
+    "vertices_expected": 114688.0,
+    "vertices_mean": 114672.07666666666,
+    "vertices_z": -0.8060136917736006,
+    "edges_expected": 175597.03703703702,
+    "edges_mean": 175557.07333333333,
+    "edges_z": -0.6957377102678436
+  }
+]
